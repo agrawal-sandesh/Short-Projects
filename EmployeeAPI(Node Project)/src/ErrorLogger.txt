@@ -1,0 +1,389 @@
+Wed Feb 24 2021 - TypeError: empId.match is not a function
+    at Object.validator.validateEmpId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\utilities\validator.js:9:16)
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:32:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Feb 24 2021 - TypeError: empId.test is not a function
+    at Object.validator.validateEmpId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\utilities\validator.js:9:16)
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:32:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Feb 24 2021 - TypeError: empId.test is not a function
+    at Object.validator.validateEmpId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\utilities\validator.js:10:16)
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:32:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Feb 24 2021 - TypeError: empId.match is not a function
+    at Object.validator.validateEmpId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\utilities\validator.js:10:16)
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:32:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Feb 24 2021 - TypeError: empId.match is not a function
+    at Object.validator.validateEmpId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\utilities\validator.js:10:16)
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:32:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Feb 24 2021 - TypeError: collection.insertOne is not a function
+    at Object.model.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\model\dbLayer.js:29:37)
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:33:30)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Feb 24 2021 - TypeError: collection.insert is not a function
+    at Object.model.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\model\dbLayer.js:29:37)
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:33:30)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Feb 24 2021 - TypeError: collection.insert is not a function
+    at Object.model.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\model\dbLayer.js:30:37)
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:33:30)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Feb 24 2021 - TypeError: collection.insert is not a function
+    at Object.model.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\model\dbLayer.js:29:37)
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:33:30)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Feb 24 2021 - Error: Invalid Employee Id
+    at Object.validator.validateEmpId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\utilities\validator.js:11:19)
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:32:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Feb 24 2021 - Error: Invalid Employee Id
+    at Object.validator.validateEmpId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\utilities\validator.js:11:19)
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:32:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Feb 24 2021 - Error: Invalid Employee Id
+    at Object.validator.validateEmpId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\utilities\validator.js:11:19)
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:32:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Feb 24 2021 - Error: Invalid Employee Id
+    at Object.validator.validateEmpId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\utilities\validator.js:11:19)
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:32:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Feb 24 2021 - BulkWriteError: E11000 duplicate key error collection: EmployeeDB.Employee index: empNo_1 dup key: { : 123386 }
+    at OrderedBulkOperation.handleWriteError (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at handler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\core\sdam\topology.js:943:24)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\connection_pool.js:350:13
+    at handleOperationResult (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\core\sdam\server.js:558:5)
+    at MessageStream.messageHandler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\connection.js:277:5)
+    at MessageStream.emit (events.js:315:20)
+    at processIncomingData (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (_stream_writable.js:378:12)
+    at MessageStream.Writable.write (_stream_writable.js:314:12)
+    at Socket.ondata (_stream_readable.js:708:22)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:273:9)
+    at Socket.Readable.push (_stream_readable.js:214:10)
+Wed Feb 24 2021 - Error: Employee details not added
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:37:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:20
+Wed Feb 24 2021 - BulkWriteError: E11000 duplicate key error collection: EmployeeDB.Employee index: empNo_1 dup key: { : 123776 }
+    at OrderedBulkOperation.handleWriteError (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at handler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\core\sdam\topology.js:943:24)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\connection_pool.js:350:13
+    at handleOperationResult (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\core\sdam\server.js:558:5)
+    at MessageStream.messageHandler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\connection.js:277:5)
+    at MessageStream.emit (events.js:315:20)
+    at processIncomingData (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (_stream_writable.js:378:12)
+    at MessageStream.Writable.write (_stream_writable.js:314:12)
+    at Socket.ondata (_stream_readable.js:708:22)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:273:9)
+    at Socket.Readable.push (_stream_readable.js:214:10)
+Wed Feb 24 2021 - Error: Invalid Employee Id
+    at Object.validator.validateEmpId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\utilities\validator.js:11:19)
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:32:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Feb 24 2021 - Error: Employee details not added
+    at Object.service.insertEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:37:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:26:20
+Wed Feb 24 2021 - BulkWriteError: E11000 duplicate key error collection: EmployeeDB.Employee index: empNo_1 dup key: { : 123778 }
+    at OrderedBulkOperation.handleWriteError (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at handler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\core\sdam\topology.js:943:24)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\connection_pool.js:350:13
+    at handleOperationResult (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\core\sdam\server.js:558:5)
+    at MessageStream.messageHandler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\connection.js:277:5)
+    at MessageStream.emit (events.js:315:20)
+    at processIncomingData (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (_stream_writable.js:378:12)
+    at MessageStream.Writable.write (_stream_writable.js:314:12)
+    at Socket.ondata (_stream_readable.js:708:22)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:273:9)
+    at Socket.Readable.push (_stream_readable.js:214:10)
+Wed Feb 24 2021 - Error
+    at Object.model.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\model\dbLayer.js:53:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.service.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:50:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:45:20
+Wed Feb 24 2021 - Error
+    at Object.model.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\model\dbLayer.js:53:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.service.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:50:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:45:20
+Wed Feb 24 2021 - Error
+    at Object.model.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\model\dbLayer.js:53:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.service.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:50:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:46:20
+Wed Feb 24 2021 - Error
+    at Object.model.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\model\dbLayer.js:53:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.service.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:50:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:45:20
+Wed Feb 24 2021 - Error
+    at Object.model.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\model\dbLayer.js:54:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.service.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:50:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:45:20
+Wed Feb 24 2021 - Error
+    at Object.model.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\model\dbLayer.js:53:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.service.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:50:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:45:20
+Wed Feb 24 2021 - Error
+    at Object.model.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\model\dbLayer.js:53:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.service.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:50:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:45:20
+Wed Feb 24 2021 - Error
+    at Object.model.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\model\dbLayer.js:53:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.service.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:50:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:45:20
+Wed Feb 24 2021 - Error
+    at Object.model.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\model\dbLayer.js:54:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.service.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:50:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:45:20
+Wed Feb 24 2021 - Error
+    at Object.model.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\model\dbLayer.js:56:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.service.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:50:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:45:20
+Wed Feb 24 2021 - Error: Updation of skill set failed
+    at Object.service.updateSkills (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:54:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:45:20
+Wed Feb 24 2021 - ObjectParameterError: Parameter "filter" to deleteMany() must be an object, got 123720
+    at model.Query.Query.deleteMany (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongoose\lib\query.js:2793:16)
+    at Function.deleteMany (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongoose\lib\model.js:1987:13)
+    at Object.model.removeEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\model\dbLayer.js:66:37)
+    at Object.service.deleteEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:68:30)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:60:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:281:22
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\express\lib\router\index.js:47:12)
+Wed Feb 24 2021 - Error: Unable to remove 123720 details
+    at Object.service.deleteEmp (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\service\services.js:72:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\src\routes\routing.js:60:20
+Wed Feb 24 2021 - BulkWriteError: E11000 duplicate key error collection: EmployeeDB.Employee index: empNo_1 dup key: { : 123456 }
+    at OrderedBulkOperation.handleWriteError (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at handler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\core\sdam\topology.js:943:24)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\connection_pool.js:350:13
+    at handleOperationResult (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\core\sdam\server.js:558:5)
+    at MessageStream.messageHandler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\connection.js:277:5)
+    at MessageStream.emit (events.js:315:20)
+    at processIncomingData (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\EmployeeAPI\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (_stream_writable.js:378:12)
+    at MessageStream.Writable.write (_stream_writable.js:314:12)
+    at Socket.ondata (_stream_readable.js:708:22)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:273:9)
+    at Socket.Readable.push (_stream_readable.js:214:10)

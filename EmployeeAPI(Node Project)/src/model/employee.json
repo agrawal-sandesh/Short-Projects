@@ -1,0 +1,24 @@
+[
+    {
+        "empName" : "sam",
+        "empNo" : 123456,
+        "location" : "Pune",
+        "joinedDate" : "2017-10-03",
+        "stream" : "UI",
+        "technology" : ["AngularJS","Express","Node"]
+    },{
+        "empName" : "Riya",
+        "empNo" : 123457,
+        "location" : "Hyderbad",
+        "joinedDate" : "2016-04-13",
+        "stream" : "JAVA",
+        "technology" : ["AngularJS","Hibernate","Spring"]
+    },{
+        "empName" : "Aron",
+        "empNo" : 123458,
+        "location" : "Mysore",
+        "joinedDate" : "2017-07-19",
+        "stream" : "UI",
+        "technology" : ["ReactJS","Express","Node"]
+    }
+]

@@ -1,0 +1,1350 @@
+Mon Mar 01 2021 - ReferenceError: flightBooking is not defined
+    at Object.flightBookingDb.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\model\users.js:93:20)
+    at Object.fBookingService.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\service\users.js:53:38)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:40:33
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\node_modules\express\lib\router\index.js:335:12)
+Mon Mar 01 2021 - Error
+    at Object.fBookingService.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\service\users.js:59:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:40:19
+Mon Mar 01 2021 - Error
+    at Object.fBookingService.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\service\users.js:59:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:40:19
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - Error
+    at Object.fBookingService.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\service\users.js:59:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:40:19
+Mon Mar 01 2021 - Error
+    at Object.fBookingService.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\service\users.js:59:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:40:19
+Mon Mar 01 2021 - Error
+    at Object.fBookingService.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\service\users.js:59:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:40:19
+Mon Mar 01 2021 - Error
+    at Object.fBookingService.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\service\users.js:59:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:40:19
+Mon Mar 01 2021 - Error
+    at Object.fBookingService.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\service\users.js:59:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:40:19
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: Cannot read property 'bookings' of undefined
+    at Object.flightBookingDb.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\model\users.js:98:34)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.fBookingService.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\service\users.js:53:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:40:19
+Mon Mar 01 2021 - TypeError: Cannot read property 'bookings' of undefined
+    at Object.flightBookingDb.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\model\users.js:97:34)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.fBookingService.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\service\users.js:53:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:40:19
+Mon Mar 01 2021 - ReferenceError: i is not defined
+    at Object.flightBookingDb.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\model\users.js:98:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.fBookingService.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\service\users.js:53:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:40:19
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - Error
+    at Object.fBookingService.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\service\users.js:59:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:40:19
+Mon Mar 01 2021 - Error
+    at Object.fBookingService.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\service\users.js:59:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:40:19
+Mon Mar 01 2021 - Error
+    at Object.fBookingService.getAllBookings (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\service\users.js:59:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:40:19
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: Cannot read property 'status' of undefined
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:42:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:41:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Mar 01 2021 - TypeError: res.status is not a function
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBwebService\src\routes\routing.js:44:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Mar 02 2021 - Error: Could not connect to database
+    at Object.collection.getFlightCollection (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\connection.js:46:21)
+Tue Mar 02 2021 - Error: Could not connect to database
+    at Object.collection.getFlightCollection (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\connection.js:46:21)
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:92:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:69:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:92:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:69:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:92:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:69:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:92:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:69:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:92:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:69:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:92:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:69:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.flightBookingDb.checkAvailability (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\model\users.js:39:15)
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:71:51)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:85:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:85:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:85:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - ReferenceError: bookingArray is not defined
+    at Object.flightBookingDb.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\model\users.js:107:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:77:34)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - ReferenceError: bookingArray is not defined
+    at Object.flightBookingDb.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\model\users.js:107:25)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:77:34)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - ReferenceError: print is not defined
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:79:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:83:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error: No Booking found for P1001 in IND-103
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:81:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:56:20
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:92:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:68:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:92:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:68:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+Tue Mar 02 2021 - Error: No Booking found in IND-109
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:97:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:68:20
+Tue Mar 02 2021 - Error: No Booking found in IND-109
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:97:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:68:20
+Tue Mar 02 2021 - Error: No Booking found in IND-109
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:97:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:68:20
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:92:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:68:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+Tue Mar 02 2021 - Error: No Booking found in IND-100
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:97:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:68:20
+Tue Mar 02 2021 - Error: No Booking found in IND-100
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:97:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:68:20
+Tue Mar 02 2021 - Error: No Booking found in IND-100
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:97:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:68:20
+Tue Mar 02 2021 - Error: No Booking found in IND-100
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:97:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:68:20
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:92:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:68:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+Tue Mar 02 2021 - Error: No Booking found in IND-100
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:97:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:68:20
+Tue Mar 02 2021 - Error: No Booking found for flightId IND-100
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:97:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:68:20
+Tue Mar 02 2021 - Error: No Booking found for flightId IND-100
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:97:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:68:20
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.flightBookingDb.checkAvailability (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\model\users.js:39:15)
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:71:51)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:55:20
+Tue Mar 02 2021 - Error: No Booking found for customerId G1001 In flight IND-101
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:81:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:55:20
+Tue Mar 02 2021 - Error: Customer not registered. Register To proceed
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:12:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Customer not registered. Register To proceed
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:12:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Customer not registered. Register To proceed
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:12:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:9:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:335:12)
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:9:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:335:12)
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:10:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:335:12)
+Tue Mar 02 2021 - SyntaxError: Unexpected token l in JSON at position 7
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\body-parser\lib\types\json.js:158:10)
+    at parse (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\raw-body\index.js:224:16)
+    at done (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1201:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+Tue Mar 02 2021 - Error: Customer not registered. Register To proceed
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:13:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'customerId' of undefined
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:11:88)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+Tue Mar 02 2021 - CastError: Cast to Number failed for value "NaN" at path "walletAmount"
+    at model.Query.exec (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4360:21)
+    at model.Query.Query.then (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4454:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Mar 02 2021 - CastError: Cast to Number failed for value "NaN" at path "walletAmount"
+    at model.Query.exec (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4360:21)
+    at model.Query.Query.then (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4454:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Mar 02 2021 - Error: Customer not registered. Register To proceed
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:13:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - CastError: Cast to Number failed for value "NaN" at path "walletAmount"
+    at model.Query.exec (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4360:21)
+    at model.Query.Query.then (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4454:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Mar 02 2021 - Error: Customer not registered. Register To proceed
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:13:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:9:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:335:12)
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:9:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:335:12)
+Tue Mar 02 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:9:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\express\lib\router\index.js:335:12)
+Tue Mar 02 2021 - CastError: Cast to Number failed for value "NaN" at path "walletAmount"
+    at model.Query.exec (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4360:21)
+    at model.Query.Query.then (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4454:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Mar 02 2021 - Error: Flight Unavailable
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:19:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - CastError: Cast to Number failed for value "NaN" at path "walletAmount"
+    at model.Query.exec (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4360:21)
+    at model.Query.Query.then (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4454:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Mar 02 2021 - CastError: Cast to Number failed for value "NaN" at path "walletAmount"
+    at model.Query.exec (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4360:21)
+    at model.Query.Query.then (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4454:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Mar 02 2021 - CastError: Cast to Number failed for value "NaN" at path "walletAmount"
+    at model.Query.exec (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4360:21)
+    at model.Query.Query.then (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4454:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Mar 02 2021 - CastError: Cast to Number failed for value "NaN" at path "walletAmount"
+    at model.Query.exec (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4360:21)
+    at model.Query.Query.then (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4454:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Mar 02 2021 - Error: Sorry for the inconvinience IND-102 is cancelled
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:26:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Flight almost full Only 1 left!!
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:36:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Flight almost full Only 1 left!!
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:36:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Sorry for the inconvinience IND-102 is cancelled
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:26:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Sorry for the inconvinience IND-103 is cancelled
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:26:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - CastError: Cast to Number failed for value "NaN" at path "walletAmount"
+    at model.Query.exec (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4360:21)
+    at model.Query.Query.then (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4454:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Mar 02 2021 - Error: Flight IND-101 is already full!!
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:31:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - CastError: Cast to Number failed for value "NaN" at path "walletAmount"
+    at model.Query.exec (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4360:21)
+    at model.Query.Query.then (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4454:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Mar 02 2021 - CastError: Cast to Number failed for value "NaN" at path "walletAmount"
+    at model.Query.exec (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4360:21)
+    at model.Query.Query.then (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4454:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Mar 02 2021 - Error: Flight almost full Only 98 left!!
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:36:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - CastError: Cast to Number failed for value "NaN" at path "walletAmount"
+    at model.Query.exec (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4360:21)
+    at model.Query.Query.then (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4454:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Mar 02 2021 - ReferenceError: customer is not defined
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:42:42)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - ReferenceError: customer is not defined
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:42:42)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Insufficient Wallet Amount Add more Rs. 49500 to continue the booking
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:43:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - ReferenceError: bookingCost is not defined
+    at Object.flightBookingDb.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\model\users.js:66:225)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:48:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Booking Failed
+    at Object.flightBookingDb.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\model\users.js:88:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:48:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - ReferenceError: bookingId is not defined
+    at Object.flightBookingDb.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\model\users.js:75:44)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:48:16)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Insufficient Wallet Amount Add more Rs. 2700 to continue the booking
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:40:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Insufficient Wallet Amount Add more Rs. 900 to continue the booking
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:40:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Sorry for the inconvinience IND-102 is cancelled
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:23:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Sorry for the inconvinience IND-103 is cancelled
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:23:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Insufficient Wallet Amount Add more Rs. 4200 to continue the booking
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:40:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Flight almost full Only 86 left!!
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:33:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - Error: Insufficient Wallet Amount Add more Rs. 4000 to continue the booking
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:40:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:28:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'customerId' of undefined
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:125:89)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'customerId' of undefined
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:126:89)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'customerId' of undefined
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:126:89)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'customerId' of undefined
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:105:55)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'customerId' of undefined
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:105:55)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'customerId' of undefined
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:126:89)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'customerId' of undefined
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:126:89)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'customerId' of undefined
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:126:89)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'customerId' of undefined
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:126:89)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property '0' of undefined
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:105:54)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property '0' of undefined
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:106:54)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'customerId' of undefined
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:126:89)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'customerId' of undefined
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:126:89)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'customerId' of undefined
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:126:89)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'walletAmount' of null
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:127:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'walletAmount' of null
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:127:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'walletAmount' of null
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:127:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'walletAmount' of null
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:127:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - ReferenceError: customerId is not defined
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:131:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'walletAmount' of null
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:127:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'walletAmount' of null
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:127:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'walletAmount' of null
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:130:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'walletAmount' of null
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:131:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'walletAmount' of null
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:131:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: customerId.push is not a function
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:128:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'walletAmount' of null
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:133:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: Cannot read property 'walletAmount' of null
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:133:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - TypeError: flightDetails.updateOne is not a function
+    at Object.flightBookingDb.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\model\users.js:134:44)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:138:24)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - MongoError: cannot use the part (bookings of bookings.bookingId) to traverse the element ({bookings: [ { _id: ObjectId('6036928f9abf7b2eac4f8466'), customerId: "P1001", bookingId: 2002, noOfTickets: 3, bookingCost: 2250 }, { _id: ObjectId('6036928f9abf7b2eac4f8467'), customerId: "G1001", bookingId: 2004, noOfTickets: 2, bookingCost: 1500 } ]})
+    at Function.create (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at handler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\core\sdam\topology.js:943:24)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\connection_pool.js:350:13
+    at handleOperationResult (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\core\sdam\server.js:558:5)
+    at MessageStream.messageHandler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\connection.js:277:5)
+    at MessageStream.emit (events.js:315:20)
+    at processIncomingData (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (_stream_writable.js:378:12)
+    at MessageStream.Writable.write (_stream_writable.js:314:12)
+    at Socket.ondata (_stream_readable.js:708:22)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:273:9)
+Tue Mar 02 2021 - MongoError: cannot use the part (bookings of bookings.bookingId) to traverse the element ({bookings: [ { _id: ObjectId('6036928f9abf7b2eac4f8466'), customerId: "P1001", bookingId: 2002, noOfTickets: 3, bookingCost: 2250 }, { _id: ObjectId('6036928f9abf7b2eac4f8467'), customerId: "G1001", bookingId: 2004, noOfTickets: 2, bookingCost: 1500 } ]})
+    at Function.create (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at handler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\core\sdam\topology.js:943:24)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\connection_pool.js:350:13
+    at handleOperationResult (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\core\sdam\server.js:558:5)
+    at MessageStream.messageHandler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\connection.js:277:5)
+    at MessageStream.emit (events.js:315:20)
+    at processIncomingData (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (_stream_writable.js:378:12)
+    at MessageStream.Writable.write (_stream_writable.js:314:12)
+    at Socket.ondata (_stream_readable.js:708:22)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:273:9)
+Tue Mar 02 2021 - MongoError: cannot use the part (bookings of bookings.bookingId) to traverse the element ({bookings: [ { _id: ObjectId('6036928f9abf7b2eac4f8466'), customerId: "P1001", bookingId: 2002, noOfTickets: 3, bookingCost: 2250 }, { _id: ObjectId('6036928f9abf7b2eac4f8467'), customerId: "G1001", bookingId: 2004, noOfTickets: 2, bookingCost: 1500 } ]})
+    at Function.create (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at handler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\core\sdam\topology.js:943:24)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\connection_pool.js:350:13
+    at handleOperationResult (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\core\sdam\server.js:558:5)
+    at MessageStream.messageHandler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\connection.js:277:5)
+    at MessageStream.emit (events.js:315:20)
+    at processIncomingData (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (_stream_writable.js:378:12)
+    at MessageStream.Writable.write (_stream_writable.js:314:12)
+    at Socket.ondata (_stream_readable.js:708:22)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:273:9)
+Tue Mar 02 2021 - TypeError: flightDetails.updateMany is not a function
+    at Object.flightBookingDb.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\model\users.js:133:44)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:138:24)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - MongooseError: Callback must be a function, got [object Object]
+    at Function.Model.$handleCallbackError (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\model.js:4860:11)
+    at _update (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\model.js:3767:20)
+    at Function.update (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\model.js:3639:10)
+    at model.update (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\document.js:733:41)
+    at Object.flightBookingDb.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\model\users.js:133:44)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:138:24)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Tue Mar 02 2021 - MongoError: cannot use the part (bookings of bookings.noOfTickets) to traverse the element ({bookings: [ { _id: ObjectId('6036928f9abf7b2eac4f8466'), customerId: "P1001", bookingId: 2002, noOfTickets: 3, bookingCost: 2250 }, { _id: ObjectId('6036928f9abf7b2eac4f8467'), customerId: "G1001", bookingId: 2004, noOfTickets: 2, bookingCost: 1500 } ]})
+    at Function.create (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at handler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\core\sdam\topology.js:943:24)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\connection_pool.js:350:13
+    at handleOperationResult (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\core\sdam\server.js:558:5)
+    at MessageStream.messageHandler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\connection.js:277:5)
+    at MessageStream.emit (events.js:315:20)
+    at processIncomingData (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (_stream_writable.js:378:12)
+    at MessageStream.Writable.write (_stream_writable.js:314:12)
+    at Socket.ondata (_stream_readable.js:708:22)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:273:9)
+Wed Mar 03 2021 - MongoError: cannot use the part (bookings of bookings.noOfTickets) to traverse the element ({bookings: [ { _id: ObjectId('6036928f9abf7b2eac4f8466'), customerId: "P1001", bookingId: 2002, noOfTickets: 3, bookingCost: 2250 }, { _id: ObjectId('6036928f9abf7b2eac4f8467'), customerId: "G1001", bookingId: 2004, noOfTickets: 2, bookingCost: 1500 } ]})
+    at Function.create (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at handler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\core\sdam\topology.js:943:24)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\connection_pool.js:350:13
+    at handleOperationResult (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\core\sdam\server.js:558:5)
+    at MessageStream.messageHandler (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\connection.js:277:5)
+    at MessageStream.emit (events.js:315:20)
+    at processIncomingData (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (_stream_writable.js:378:12)
+    at MessageStream.Writable.write (_stream_writable.js:314:12)
+    at Socket.ondata (_stream_readable.js:708:22)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:273:9)
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - CastError: Cast to Number failed for value "NaN" at path "walletAmount"
+    at model.Query.exec (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4360:21)
+    at model.Query.Query.then (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\node_modules\mongoose\lib\query.js:4454:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - ReferenceError: customerId is not defined
+    at Object.flightBookingDb.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\model\users.js:140:75)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:138:24)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: update failed
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\service\users.js:142:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebService\src\routes\routing.js:82:20
+Wed Mar 03 2021 - Error: Insufficient Wallet Amount. Add more 250 Rs. to continue booking
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:134:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:62:20
+Wed Mar 03 2021 - Error: Sorry for the Inconvinience..IND-103 has been cancelled!!
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:111:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:62:20
+Wed Mar 03 2021 - Error: Flight is already Full. Can't Book more tickets
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:116:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:62:20
+Wed Mar 03 2021 - Error: Flight almost Full Only 1 seat left
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:121:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:62:20
+Wed Mar 03 2021 - Error: Insufficient Wallet Amount. Add more 1000 Rs. to continue booking
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:134:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:62:20
+Wed Mar 03 2021 - Error: Insufficient Wallet Amount. Add more 250 Rs. to continue booking
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:134:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:62:20
+Wed Mar 03 2021 - Error: Sorry for the Inconvinience..IND-103 has been cancelled!!
+    at Object.fBookingService.updateBooking (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:111:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:62:20
+Wed Mar 03 2021 - Error: Flight Details not found
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:72:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:35:20
+Wed Mar 03 2021 - Error: No Booking found for customerId P1001 In flight IND-103
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:80:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:35:20
+Wed Mar 03 2021 - Error: No Booking found for customerId G1001 In flight IND-101
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:80:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:35:20
+Wed Mar 03 2021 - Error: No Booking found for customerId P1001 In flight IND-103
+    at Object.fBookingService.customerBookingsByFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:80:27)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:35:20
+Wed Mar 03 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:9:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:8:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Mar 03 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:9:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:8:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Mar 03 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:9:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:8:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Mar 03 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:9:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:8:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Mar 03 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:9:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:8:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Mar 03 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:10:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:8:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Mar 03 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:10:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:8:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Mar 03 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:9:15)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:9:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:317:13)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\express\lib\router\index.js:335:12)
+Wed Mar 03 2021 - SyntaxError: Unexpected token S in JSON at position 43
+    at JSON.parse (<anonymous>)
+    at parse (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\raw-body\index.js:224:16)
+    at done (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1201:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+Wed Mar 03 2021 - Error: Flight almost full Only 1 left!!
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:33:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:9:20
+Wed Mar 03 2021 - Error: Flight almost full Only 1 seat left!!
+    at Object.fBookingService.bookFlight (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\service\users.js:33:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\src\routes\routing.js:8:20
+Wed Mar 03 2021 - Error: Error in flightId
+    at Object.Validator.validateFlightId (D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\src\utilities\validator.js:6:19)
+    at Object.fBookingService.getbookingsByFlightId (D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\src\service\users.js:91:15)
+    at D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\src\routes\routing.js:48:34
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\node_modules\express\lib\router\layer.js:95:5)
+    at D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\node_modules\express\lib\router\index.js:281:22
+    at param (D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\myGit\mern-stack-by-sandesh\Projects\FBWebServiceAPI(Node Project)\node_modules\express\lib\router\index.js:317:13)

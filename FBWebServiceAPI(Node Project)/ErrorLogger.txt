@@ -1,0 +1,144 @@
+Wed Mar 03 2021 - Error: ErrorLogger test
+    at Context.<anonymous> (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\test\codeverification.spec.js:1:10509)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:372:21)
+    at Test.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at Runner.runTest (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:455:10)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:573:12
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:369:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:379:7
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:303:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:342:7
+    at done (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:319:5)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:395:7)
+    at Hook.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:317:10)
+    at Immediate._onImmediate (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:347:5)
+    at processImmediate (internal/timers.js:456:21)
+Wed Mar 03 2021 - Error: ErrorLogger test
+    at Context.<anonymous> (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\test\codeverification.spec.js:1:10688)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:372:21)
+    at Test.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at Runner.runTest (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:455:10)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:573:12
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:369:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:379:7
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:303:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:342:7
+    at done (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:319:5)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:395:7)
+    at Hook.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:317:10)
+    at Immediate._onImmediate (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:347:5)
+    at processImmediate (internal/timers.js:456:21)
+Wed Mar 03 2021 - Error: ErrorLogger test
+    at Context.<anonymous> (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\test\codeverification.spec.js:1:10896)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:372:21)
+    at Test.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at Runner.runTest (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:455:10)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:573:12
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:369:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:379:7
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:303:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:342:7
+    at done (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:319:5)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:395:7)
+    at Hook.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:317:10)
+    at Immediate._onImmediate (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:347:5)
+    at processImmediate (internal/timers.js:456:21)
+Wed Mar 03 2021 - Error: ErrorLogger test
+    at Context.<anonymous> (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\test\codeverification.spec.js:1:10509)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:372:21)
+    at Test.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at Runner.runTest (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:455:10)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:573:12
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:369:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:379:7
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:303:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:342:7
+    at done (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:319:5)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:395:7)
+    at Hook.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:317:10)
+    at Immediate._onImmediate (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:347:5)
+    at processImmediate (internal/timers.js:456:21)
+Wed Mar 03 2021 - Error: ErrorLogger test
+    at Context.<anonymous> (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\test\codeverification.spec.js:1:10688)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:372:21)
+    at Test.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at Runner.runTest (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:455:10)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:573:12
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:369:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:379:7
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:303:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:342:7
+    at done (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:319:5)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:395:7)
+    at Hook.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:317:10)
+    at Immediate._onImmediate (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:347:5)
+    at processImmediate (internal/timers.js:456:21)
+Wed Mar 03 2021 - Error: ErrorLogger test
+    at Context.<anonymous> (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\test\codeverification.spec.js:1:10896)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:372:21)
+    at Test.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at Runner.runTest (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:455:10)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:573:12
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:369:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:379:7
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:303:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:342:7
+    at done (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:319:5)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:395:7)
+    at Hook.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:317:10)
+    at Immediate._onImmediate (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:347:5)
+    at processImmediate (internal/timers.js:456:21)
+Wed Mar 03 2021 - Error: ErrorLogger test
+    at Context.<anonymous> (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\test\codeverification.spec.js:1:10509)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:372:21)
+    at Test.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at Runner.runTest (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:455:10)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:573:12
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:369:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:379:7
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:303:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:342:7
+    at done (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:319:5)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:395:7)
+    at Hook.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:317:10)
+    at Immediate._onImmediate (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:347:5)
+    at processImmediate (internal/timers.js:456:21)
+Wed Mar 03 2021 - Error: ErrorLogger test
+    at Context.<anonymous> (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\test\codeverification.spec.js:1:10688)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:372:21)
+    at Test.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at Runner.runTest (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:455:10)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:573:12
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:369:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:379:7
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:303:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:342:7
+    at done (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:319:5)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:395:7)
+    at Hook.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:317:10)
+    at Immediate._onImmediate (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:347:5)
+    at processImmediate (internal/timers.js:456:21)
+Wed Mar 03 2021 - Error: ErrorLogger test
+    at Context.<anonymous> (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\test\codeverification.spec.js:1:10896)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:372:21)
+    at Test.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at Runner.runTest (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:455:10)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:573:12
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:369:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:379:7
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:303:14)
+    at D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:342:7
+    at done (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:319:5)
+    at callFn (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:395:7)
+    at Hook.Runnable.run (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runnable.js:364:7)
+    at next (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:317:10)
+    at Immediate._onImmediate (D:\myGit\mern-stack-by-sandesh\Expressjs_Workspace\FBWebServiceAPI\node_modules\mocha\lib\runner.js:347:5)
+    at processImmediate (internal/timers.js:456:21)

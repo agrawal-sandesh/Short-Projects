@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Infy Audition</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/styling.css">
+    <script src="./utilities/jquery.js"></script>
+</head>
+
+<body>
+    <div>
+        <header>
+            <nav class="navbar bg-nav navbar-dark  navbar-expand-md">
+                <a class="navbar-brand active" href="#">Indian Idol Audition</a>
+            </nav>
+        </header>
+        <section class="container">
+
+
+            <div class="row">
+                <div class="col-md-8 text-center offset-md-2 col-sm-8 offset-sm-2 display-4 toPad">
+                    Welcome to The Audition
+                </div>
+                <div id="para" class="col-md-8 offset-md-2 col-sm-8 offset-sm-2 text-center toPad">
+                    Apply yourself today to join our Clubs..!
+                </div>
+            </div>
+
+            <div style="justify-content:center" class="row">
+                <div class="col-md-4">
+                    <!-- <a href="register.html"> -->
+                    <div class="card">
+                        <img class="card-img-top" id="img1" src="./assets/singing.jpg" alt="Card image">
+                        <div class="card-body">
+                            <p id="paragraph"> Singing
+                                <a href="./apply.html">
+                                    <button onclick="save('singing')" id="btn" class="btn btn-primary offset-md-4"> Apply Now
+                                    </button>
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                    <!-- </a> -->
+                </div>
+                <div class="col-md-4 offset-md-2">
+                    <!-- <a href="register.html"> -->
+                    <div class="card">
+                        <img id="img2" class="card-img-top" src="./assets/dancing.jpg" alt="Card image">
+                        <div class="card-body">
+                            <p id="paragraph"> Dancing
+                                <a href="./apply.html">
+                                    <button onclick="save('dancing')" id="btn" class="btn btn-primary offset-md-4"> Apply Now
+                                    </button>
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                    <!-- </a> -->
+                </div>
+            </div>
+
+        </section>
+
+    </div>
+    <link href='./utilities/jquery-ui-1.12.1.custom/jquery-ui.css' rel="stylesheet">
+    <script src="./js/index.js"></script>
+    <script src="./utilities/index-verify.js"></script>
+</body>
+
+</html>
